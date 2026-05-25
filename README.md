@@ -6,6 +6,10 @@ A prototype for ingesting, normalizing, and reviewing emissions data from multip
 
 The deployed application is available at the Supabase-hosted URL.
 
+## Deployed app url
+
+https://esg-data-ingestion-r-puy3.bolt.host/
+
 ## Overview
 
 This platform handles the ingestion of emissions and activity data from three source types:
