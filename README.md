@@ -4,9 +4,9 @@ A prototype for ingesting, normalizing, and reviewing emissions data from multip
 
 ## Live App
 
-The deployed application is available at the Supabase-hosted URL.
+Access the deployed ESG Data Ingestion & Review Dashboard here:
 
-## Deployed app url
+## Deployed App URL
 
 https://esg-data-ingestion-r-puy3.bolt.host/
 
